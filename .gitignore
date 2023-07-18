@@ -1,0 +1,20 @@
+# Data files
+*.clr
+*.cpg
+*.dbf
+*.gpkg
+*.gpkg-shm
+*.gpkg-wal
+*.mxd
+*.prj
+*.qgz
+*.sbn
+*.sbx
+*.shp
+*.shx
+*.tfw
+*.tif
+*.vrt
+*.vrt.ovr
+*.xml
+*.zip
