@@ -1,0 +1,16 @@
+
+#718C6C - 01: open spaces, low vegetation surfaces NDVI <= 0.3
+#8AD86B - 02: open spaces, medium vegetation surfaces 0.3 < NDVI <=0.5
+#C1FFA1 - 03: open spaces, high vegetation surfaces NDVI > 0.5
+#01B7FF - 04: open spaces, water surfaces LAND < 0.5
+#FFD501 - 05: open spaces, road surfaces
+#D28200 - 11: built spaces, residential, building height <= 3m
+#FE5900 - 12: built spaces, residential, 3m < building height <= 6m
+#FF0101 - 13: built spaces, residential, 6m < building height <= 15m
+#CE001B - 14: built spaces, residential, 15m < building height <= 30m
+#7A000A - 15: built spaces, residential, building height > 30m
+#FF9FF4 - 21: built spaces, non-residential, building height <= 3m
+#FF9FF4 - 22: built spaces, non-residential, 3m < building height <= 6m
+#F701FF - 23: built spaces, non-residential, 6m < building height <= 15m
+#A601FF - 24: built spaces, non-residential, 15m < building height <= 30m
+#6E00FE - 25: built spaces, non-residential, building height > 30m
